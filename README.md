@@ -1,5 +1,10 @@
 # cssbattle-solutions
 
+# Índice
+1. [Descrição](#Descrição)
+2. [Soluções](#Soluções)
+3. [Links externos](#Links-externos)
+
 ## Descrição
 
 As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrados neste repositório refletem a abordagem que adotei durante meu processo de reaprendizagem de HTML5 e CSS3. Não necessariamente seguem as práticas mais atualizadas, mas representam a maneira como resolvi os desafios até o momento. Planejo revisá-los no futuro, aplicando os novos conhecimentos adquiridos nos cursos, e comparando o resultado final com o código que escrevi inicialmente. Além disso, não me preocupei em otimizar o código para atender aos critérios de pontuação do CSSBattle, priorizando em muitos casos uma abordagem mais descritiva, como exemplificado em  `<ul type="disc">`.
@@ -34,6 +39,6 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 
 [![Exercício 7](https://cssbattle.dev/targets/7.png "Exercício 7")](/solutions/007.md)
 
-## Links dos exercícios em CSSBatle.dev
+## Links externos
 
 [1](https://cssbattle.dev/play/1) - [2](https://cssbattle.dev/play/2) - [3](https://cssbattle.dev/play/3) - [4](https://cssbattle.dev/play/4) - [5](https://cssbattle.dev/play/5) - [6](https://cssbattle.dev/play/6) - [7](https://cssbattle.dev/play/7)
