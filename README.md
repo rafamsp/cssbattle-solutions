@@ -26,6 +26,10 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 
 [![Exercício 5](https://cssbattle.dev/targets/5.png "Exercício 5")](/solutions/005.md)
 
+6 - [Missing Slice](solutions/006.md) 30/04/2024 - 100%.
+
+[![Exercício 6](https://cssbattle.dev/targets/6.png "Exercício 6")](/solutions/006.md)
+
 ## Links dos exercícios em CSSBatle.dev
 
 [1](https://cssbattle.dev/play/1) - [2](https://cssbattle.dev/play/2) - [3](https://cssbattle.dev/play/3) - [4](https://cssbattle.dev/play/4) - [5](https://cssbattle.dev/play/5)
