@@ -2,9 +2,16 @@
 
 ## Descrição
 
-As resoluções dos exercícios do CSSBattle encontrados neste repositório refletem a abordagem que adotei durante meu processo de reaprendizagem de HTML5 e CSS3. Não necessariamente seguem as práticas mais atualizadas, mas representam a maneira como resolvi os desafios até o momento. Planejo revisá-los no futuro, aplicando os novos conhecimentos adquiridos nos cursos, comparando o resultado final com o código que escrevi inicialmente. Além disso, não me preocupei em otimizar o código para atender aos critérios de eficiência do CSSBattle, priorizando em muitos casos uma abordagem mais descritiva, como exemplificado em <code>&lt;ul type="disc"&gt;</code>.
+As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrados neste repositório refletem a abordagem que adotei durante meu processo de reaprendizagem de HTML5 e CSS3. Não necessariamente seguem as práticas mais atualizadas, mas representam a maneira como resolvi os desafios até o momento. Planejo revisá-los no futuro, aplicando os novos conhecimentos adquiridos nos cursos, e comparando o resultado final com o código que escrevi inicialmente. Além disso, não me preocupei em otimizar o código para atender aos critérios de pontuação do CSSBattle, priorizando em muitos casos uma abordagem mais descritiva, como exemplificado em  `<ul type="disc">`.
 
 ## Soluções
 
-[2 - Carrom](solutions/002.md)
-[5 - Acid Rain](solutions/005.md)
+2 - [Carrom](solutions/002.md) 29/04/2024 - 100%;
+
+3 - [Push Button](solutions/003.md) 30/04/2024 - 100%;
+
+5 - [Acid Rain](solutions/005.md) 29/04/2024 - 100%.
+
+## Links dos exercícios em CSSBatle.dev
+
+[2](https://cssbattle.dev/play/2) - [3](https://cssbattle.dev/play/3) - [5](https://cssbattle.dev/play/5)
