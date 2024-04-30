@@ -8,19 +8,19 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 
 1 - [Simply Square](solutions/001.md) 30/04/2024 - 100%;
 
-![Exercício 1](https://cssbattle.dev/targets/1.png "Exercício 1")
+[![Exercício 1](https://cssbattle.dev/targets/1.png "Exercício 1")](/solutions/001.md)
 
 2 - [Carrom](solutions/002.md) 29/04/2024 - 100%;
 
-![Exercício 2](https://cssbattle.dev/targets/2.png "Exercício 2")
+[![Exercício 2](https://cssbattle.dev/targets/21.png "Exercício 2")](/solutions/001.md)
 
 3 - [Push Button](solutions/003.md) 30/04/2024 - 100%;
 
-![Exercício 3](https://cssbattle.dev/targets/3.png "Exercício 3")
+[![Exercício 3](https://cssbattle.dev/targets/3.png "Exercício 3")](/solutions/001.md)
 
 5 - [Acid Rain](solutions/005.md) 29/04/2024 - 100%.
 
-![Exercício 5](https://cssbattle.dev/targets/5.png "Exercício 5")
+[![Exercício 5](https://cssbattle.dev/targets/5.png "Exercício 5")](/solutions/001.md)
 
 ## Links dos exercícios em CSSBatle.dev
 
