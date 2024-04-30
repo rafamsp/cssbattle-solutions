@@ -6,6 +6,8 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 
 ## Soluções
 
+1 - [Simply Square](solutions/001.md) 30/04/2024 - 100%;
+
 2 - [Carrom](solutions/002.md) 29/04/2024 - 100%;
 
 3 - [Push Button](solutions/003.md) 30/04/2024 - 100%;
@@ -14,4 +16,4 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 
 ## Links dos exercícios em CSSBatle.dev
 
-[2](https://cssbattle.dev/play/2) - [3](https://cssbattle.dev/play/3) - [5](https://cssbattle.dev/play/5)
+[1](https://cssbattle.dev/play/1) - [2](https://cssbattle.dev/play/2) - [3](https://cssbattle.dev/play/3) - [5](https://cssbattle.dev/play/5)
