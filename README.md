@@ -18,6 +18,10 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 
 [![Exercício 3](https://cssbattle.dev/targets/3.png "Exercício 3")](/solutions/003.md)
 
+4 - [Ups n Downs](solutions/004.md) 30/04/2024 - 100%;
+
+[![Exercício 4](https://cssbattle.dev/targets/4.png "Exercício 4")](/solutions/004.md)
+
 5 - [Acid Rain](solutions/005.md) 29/04/2024 - 100%.
 
 [![Exercício 5](https://cssbattle.dev/targets/5.png "Exercício 5")](/solutions/005.md)
