@@ -32,4 +32,4 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 
 ## Links dos exercícios em CSSBatle.dev
 
-[1](https://cssbattle.dev/play/1) - [2](https://cssbattle.dev/play/2) - [3](https://cssbattle.dev/play/3) - [4](https://cssbattle.dev/play/4) - [5](https://cssbattle.dev/play/5)
+[1](https://cssbattle.dev/play/1) - [2](https://cssbattle.dev/play/2) - [3](https://cssbattle.dev/play/3) - [4](https://cssbattle.dev/play/4) - [5](https://cssbattle.dev/play/5) - [6](https://cssbattle.dev/play/6)
