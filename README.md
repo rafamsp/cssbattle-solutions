@@ -35,7 +35,7 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 
 [![Exercício 6](https://cssbattle.dev/targets/6.png "Exercício 6")](/solutions/006.md)
 
-7 - [Missing Slice](solutions/007.md) 30/04/2024 - 100%;
+7 - [Leafy Trail](solutions/007.md) 30/04/2024 - 100%;
 
 [![Exercício 7](https://cssbattle.dev/targets/7.png "Exercício 7")](/solutions/007.md)
 
