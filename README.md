@@ -49,4 +49,4 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 
 ## Links externos
 
-[1](https://cssbattle.dev/play/1) - [2](https://cssbattle.dev/play/2) - [3](https://cssbattle.dev/play/3) - [4](https://cssbattle.dev/play/4) - [5](https://cssbattle.dev/play/5) - [6](https://cssbattle.dev/play/6) - [7](https://cssbattle.dev/play/7) - [9](https://cssbattle.dev/play/9)
+[1](https://cssbattle.dev/play/1) - [2](https://cssbattle.dev/play/2) - [3](https://cssbattle.dev/play/3) - [4](https://cssbattle.dev/play/4) - [5](https://cssbattle.dev/play/5) - [6](https://cssbattle.dev/play/6) - [7](https://cssbattle.dev/play/7) - [9](https://cssbattle.dev/play/9) - [10](https://cssbattle.dev/play/10)
