@@ -7,7 +7,7 @@
 
 ## Descrição
 
-As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrados neste repositório refletem a abordagem que adotei durante meu processo de reaprendizagem de HTML5 e CSS3. Não necessariamente seguem as práticas mais atualizadas, mas representam a maneira como resolvi os desafios até o momento. Planejo revisá-los no futuro, aplicando os novos conhecimentos adquiridos nos cursos, e comparando o resultado final com o código que escrevi inicialmente. Além disso, não me preocupei em otimizar o código para atender aos critérios de pontuação do CSSBattle, priorizando em muitos casos uma abordagem mais descritiva, como exemplificado em  `<ul type="disc">` e no uso prático da propriedade z-index.
+As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrados neste repositório refletem a abordagem que adotei durante meu processo de reaprendizagem de HTML5 e CSS3. Não necessariamente seguem as práticas mais atualizadas, mas representam a maneira como resolvi os desafios até o momento. Planejo revisá-los no futuro, aplicando os novos conhecimentos adquiridos nos cursos, e comparando o resultado final com o código que escrevi inicialmente. Além disso, não me preocupei em otimizar o código para atender aos critérios de pontuação do CSSBattle, priorizando em alguns casos uma abordagem mais descritiva, como exemplificado em  `<ul type="disc">`, nos nomes de classes mais longos e no uso prático da propriedade z-index.
 
 ## Soluções
 
@@ -39,9 +39,13 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 
 [![Exercício 7](https://cssbattle.dev/targets/7.png "Exercício 7")](/solutions/007.md)
 
-9 - [Tesseract](solutions/009.md) 01/05/2024 - 100%.
+9 - [Tesseract](solutions/009.md) 01/05/2024 - 100%;
 
 [![Exercício 9](https://cssbattle.dev/targets/9.png "Exercício 9")](/solutions/009.md)
+
+10 - [Cloaked Spirits](solutions/010.md) 02/05/2024 - 100%.
+
+[![Exercício 10](https://cssbattle.dev/targets/10.png "Exercício 10")](/solutions/010.md)
 
 ## Links externos
 
