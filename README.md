@@ -11,41 +11,35 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 
 ## Soluções
 
-1 - [Simply Square](solutions/001.md) 30/04/2024 - 100%;
+| #1 Simply Square | #2 Carrom |
+|:---:|:---:|
+|[![Exercício 1](https://cssbattle.dev/targets/1.png "Exercício 1")](/solutions/001.md)|[![Exercício 2](https://cssbattle.dev/targets/2.png "Exercício 2")](/solutions/002.md)|
+|📅30/04/2024|📅29/04/2024|
 
-[![Exercício 1](https://cssbattle.dev/targets/1.png "Exercício 1")](/solutions/001.md)
+| #3 Push Button | #4 Ups n Downs |
+|:---:|:---:|
+|[![Exercício 3](https://cssbattle.dev/targets/3.png "Exercício 3")](/solutions/003.md)|[![Exercício 4](https://cssbattle.dev/targets/4.png "Exercício 4")](/solutions/004.md)|
+|📅30/04/2024|📅30/04/2024|
 
-2 - [Carrom](solutions/002.md) 29/04/2024 - 100%;
+| #5 Acid Rain | #6 Missing Slice |
+|:---:|:---:|
+|[![Exercício 5](https://cssbattle.dev/targets/5.png "Exercício 5")](/solutions/005.md)|[![Exercício 6](https://cssbattle.dev/targets/6.png "Exercício 6")](/solutions/006.md)|
+|📅29/04/2024|📅30/04/2024|
 
-[![Exercício 2](https://cssbattle.dev/targets/2.png "Exercício 2")](/solutions/002.md)
+| #7 Leafy Trail | #8 |
+|:---:|:---:|
+|[![Exercício 7](https://cssbattle.dev/targets/7.png "Exercício 7")](/solutions/007.md)|[![Exercício 8](https://cssbattle.dev/targets/8.png "Exercício 8")](#)|
+|📅30/04/2024|📅-|
 
-3 - [Push Button](solutions/003.md) 30/04/2024 - 100%;
+| #9 Tesseract | #10 Cloaked Spirits |
+|:---:|:---:|
+|[![Exercício 9](https://cssbattle.dev/targets/9.png "Exercício 9")](/solutions/009.md)|[![Exercício 10](https://cssbattle.dev/targets/10.png "Exercício 10")](/solutions/010.md)|
+|📅01/04/2024|📅02/05/2024|
 
-[![Exercício 3](https://cssbattle.dev/targets/3.png "Exercício 3")](/solutions/003.md)
-
-4 - [Ups n Downs](solutions/004.md) 30/04/2024 - 100%;
-
-[![Exercício 4](https://cssbattle.dev/targets/4.png "Exercício 4")](/solutions/004.md)
-
-5 - [Acid Rain](solutions/005.md) 29/04/2024 - 100%;
-
-[![Exercício 5](https://cssbattle.dev/targets/5.png "Exercício 5")](/solutions/005.md)
-
-6 - [Missing Slice](solutions/006.md) 30/04/2024 - 100%;
-
-[![Exercício 6](https://cssbattle.dev/targets/6.png "Exercício 6")](/solutions/006.md)
-
-7 - [Leafy Trail](solutions/007.md) 30/04/2024 - 100%;
-
-[![Exercício 7](https://cssbattle.dev/targets/7.png "Exercício 7")](/solutions/007.md)
-
-9 - [Tesseract](solutions/009.md) 01/05/2024 - 100%;
-
-[![Exercício 9](https://cssbattle.dev/targets/9.png "Exercício 9")](/solutions/009.md)
-
-10 - [Cloaked Spirits](solutions/010.md) 02/05/2024 - 100%.
-
-[![Exercício 10](https://cssbattle.dev/targets/10.png "Exercício 10")](/solutions/010.md)
+| #11 | #12 |
+|:---:|:---:|
+|[![Exercício 11](https://cssbattle.dev/targets/11.png "Exercício 11")](#)|[![Exercício 102](https://cssbattle.dev/targets/12.png "Exercício 12")](#)|
+|📅-|📅-|
 
 ## Links externos
 
