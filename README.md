@@ -14,26 +14,32 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 | #1 Simply Square | #2 Carrom |
 |:---:|:---:|
 |[![Exercício 1](https://cssbattle.dev/targets/1.png "Exercício 1")](/solutions/001.md)|[![Exercício 2](https://cssbattle.dev/targets/2.png "Exercício 2")](/solutions/002.md)|
+|[Solução 1](/solutions/001.md)|[Solução 2](/solutions/002.md)|
 
 | #3 Push Button | #4 Ups n Downs |
 |:---:|:---:|
 |[![Exercício 3](https://cssbattle.dev/targets/3.png "Exercício 3")](/solutions/003.md)|[![Exercício 4](https://cssbattle.dev/targets/4.png "Exercício 4")](/solutions/004.md)|
+|[Solução 3](/solutions/003.md)|[Solução 4](/solutions/004.md)|
 
 | #5 Acid Rain | #6 Missing Slice |
 |:---:|:---:|
 |[![Exercício 5](https://cssbattle.dev/targets/5.png "Exercício 5")](/solutions/005.md)|[![Exercício 6](https://cssbattle.dev/targets/6.png "Exercício 6")](/solutions/006.md)|
+|[Solução 5](/solutions/005.md)|[Solução 6](/solutions/006.md)|
 
 | #7 Leafy Trail | #8 Forking Crazy |
 |:---:|:---:|
 |[![Exercício 7](https://cssbattle.dev/targets/7.png "Exercício 7")](/solutions/007.md)|[![Exercício 8](https://cssbattle.dev/targets/8.png "Exercício 8")](#)|
+|[Solução 7](/solutions/007.md)|-|
 
 | #9 Tesseract | #10 Cloaked Spirits |
 |:---:|:---:|
 |[![Exercício 9](https://cssbattle.dev/targets/9.png "Exercício 9")](/solutions/009.md)|[![Exercício 10](https://cssbattle.dev/targets/10.png "Exercício 10")](/solutions/010.md)|
+|[Solução 9](/solutions/009.md)|[Solução 10](/solutions/010.md)|
 
 | #11 Eye of Sauron | #12 Wiggly Moustache |
 |:---:|:---:|
 |[![Exercício 11](https://cssbattle.dev/targets/11.png "Exercício 11")](#)|[![Exercício 102](https://cssbattle.dev/targets/12.png "Exercício 12")](#)|
+|-|-|
 
 ## Desafios diários
 
