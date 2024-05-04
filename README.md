@@ -23,7 +23,7 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 |:---:|:---:|
 |[![Exercício 5](https://cssbattle.dev/targets/5.png "Exercício 5")](/solutions/005.md)|[![Exercício 6](https://cssbattle.dev/targets/6.png "Exercício 6")](/solutions/006.md)|
 
-| #7 Leafy Trail | #8 |
+| #7 Leafy Trail | #8 Forking Crazy |
 |:---:|:---:|
 |[![Exercício 7](https://cssbattle.dev/targets/7.png "Exercício 7")](/solutions/007.md)|[![Exercício 8](https://cssbattle.dev/targets/8.png "Exercício 8")](#)|
 
@@ -31,7 +31,7 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 |:---:|:---:|
 |[![Exercício 9](https://cssbattle.dev/targets/9.png "Exercício 9")](/solutions/009.md)|[![Exercício 10](https://cssbattle.dev/targets/10.png "Exercício 10")](/solutions/010.md)|
 
-| #11 | #12 |
+| #11 Eye of Sauron | #12 Wiggly Moustache |
 |:---:|:---:|
 |[![Exercício 11](https://cssbattle.dev/targets/11.png "Exercício 11")](#)|[![Exercício 102](https://cssbattle.dev/targets/12.png "Exercício 12")](#)|
 
