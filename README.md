@@ -41,6 +41,19 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 |[![Exercício 11](https://cssbattle.dev/targets/11.png "Exercício 11")](#)|[![Exercício 102](https://cssbattle.dev/targets/12.png "Exercício 12")](#)|
 |📅-|📅-|
 
+## Desafios diários
+
+| 2024-5-4 |
+|:---:|
+|[![Exercício 2024-5-4](daily-solutions/media/2024-5-4.png "Exercício 2024-5-4")](/daily-solutions/2024-5-4.md)|
+|[Solução 2024-5-4](/daily-solutions/2024-5-4.md)|
+
 ## Links externos
 
+### Desafios
+
 [1](https://cssbattle.dev/play/1) - [2](https://cssbattle.dev/play/2) - [3](https://cssbattle.dev/play/3) - [4](https://cssbattle.dev/play/4) - [5](https://cssbattle.dev/play/5) - [6](https://cssbattle.dev/play/6) - [7](https://cssbattle.dev/play/7) - [9](https://cssbattle.dev/play/9) - [10](https://cssbattle.dev/play/10)
+
+### Desafios diários
+
+[2024-5-4](https://cssbattle.dev/play/ghUrkXXqFvlph4Xk4xc3)
