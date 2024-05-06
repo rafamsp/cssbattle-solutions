@@ -41,19 +41,24 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 |[![Exercício 11](https://cssbattle.dev/targets/11.png "Exercício 11")](#)|[![Exercício 102](https://cssbattle.dev/targets/12.png "Exercício 12")](#)|
 |-|-|
 
+| #179 Tanzania |
+|:---:|
+|[![Exercício 179](https://cssbattle.dev/targets/179.png "Exercício 179")](/solutions/179.md)|
+|[Solução 179](/solutions/179.md)|
+
 ## Desafios diários
 
-| 2024-5-4 |
-|:---:|
-|[![Exercício 2024-5-4](daily-solutions/media/2024-5-4.png "Exercício 2024-5-4")](/daily-solutions/2024-5-4.md)|
-|[Solução 2024-5-4](/daily-solutions/2024-5-4.md)|
+| 2024-5-4 | 2024-5-6 |
+|:---:|:---:|
+|[![Exercício 2024-5-4](daily-solutions/media/2024-5-4.png "Exercício 2024-5-4")](/daily-solutions/2024-5-4.md)|[![Exercício 2024-5-6](daily-solutions/media/2024-5-6.png "Exercício 2024-5-6")](/daily-solutions/2024-5-6.md)|
+|[Solução 2024-5-4](/daily-solutions/2024-5-4.md)|[Solução 2024-5-6](/daily-solutions/2024-5-6.md)|
 
 ## Links externos
 
 ### Desafios
 
-[1](https://cssbattle.dev/play/1) - [2](https://cssbattle.dev/play/2) - [3](https://cssbattle.dev/play/3) - [4](https://cssbattle.dev/play/4) - [5](https://cssbattle.dev/play/5) - [6](https://cssbattle.dev/play/6) - [7](https://cssbattle.dev/play/7) - [9](https://cssbattle.dev/play/9) - [10](https://cssbattle.dev/play/10)
+[1](https://cssbattle.dev/play/1) - [2](https://cssbattle.dev/play/2) - [3](https://cssbattle.dev/play/3) - [4](https://cssbattle.dev/play/4) - [5](https://cssbattle.dev/play/5) - [6](https://cssbattle.dev/play/6) - [7](https://cssbattle.dev/play/7) - [9](https://cssbattle.dev/play/9) - [10](https://cssbattle.dev/play/10) - [179](https://cssbattle.dev/play/179)
 
 ### Desafios diários
 
-[2024-5-4](https://cssbattle.dev/play/ghUrkXXqFvlph4Xk4xc3)
+[2024-5-4](https://cssbattle.dev/play/ghUrkXXqFvlph4Xk4xc3) - [2024-5-6](https://cssbattle.dev/play/5tiRRNpBoJHnfJJ0N5Wy)
