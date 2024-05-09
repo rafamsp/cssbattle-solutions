@@ -13,7 +13,7 @@
 
 # Descrição
 
-As soluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrados neste repositório refletem a abordagem que adotei durante meu processo de reaprendizagem de HTML5 e CSS3. Não necessariamente seguem as práticas mais atualizadas, mas representam a maneira como resolvi os desafios até o momento. Planejo revisá-los no futuro, aplicando os novos conhecimentos adquiridos nos cursos, e comparando o resultado final com o código que escrevi inicialmente. Além disso, não me preocupei em otimizar o código para atender aos critérios de pontuação do CSSBattle, priorizando em alguns casos uma abordagem mais descritiva, como exemplificado em  `<ul type="disc">`, nos nomes de classes mais longos e no uso prático da propriedade z-index.
+As soluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrados neste repositório refletem a abordagem que adotei durante meu processo de reaprendizagem de HTML5 e CSS3. Não necessariamente seguem as práticas mais atualizadas, mas representam a maneira como resolvi os desafios até o momento. Planejo revisá-los no futuro, aplicando novos conhecimentos adquiridos nos cursos através de outras maneiras de resolvê-los, e comparando o resultado final com o código que escrevi inicialmente. Além disso, não me preocupei em otimizar o código para atender aos critérios de pontuação do CSSBattle, priorizando em alguns casos uma abordagem mais descritiva, como exemplificado em  `<ul type="disc">`, nos nomes de classes mais longos e no uso prático da propriedade z-index.
 
 # Soluções
 
@@ -27,7 +27,7 @@ As soluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrados 
 | #5 Acid Rain | #6 Missing Slice | #7 Leafy Trail | #8 Forking Crazy |
 |:---:|:---:|:---:|:---:|
 |[![Exercício 5](https://cssbattle.dev/targets/5.png "Exercício 5")](/solutions/005.md)|[![Exercício 6](https://cssbattle.dev/targets/6.png "Exercício 6")](/solutions/006.md)|[![Exercício 7](https://cssbattle.dev/targets/7.png "Exercício 7")](/solutions/007.md)|[![Exercício 8](https://cssbattle.dev/targets/8.png "Exercício 8")](#)|
-|[Solução 5](/solutions/005.md)|[Solução 6](/solutions/006.md)|[Solução 7](/solutions/007.md)|-|
+|[Solução 5](/solutions/005.md)|[Solução 6](/solutions/006.md)|[Solução 7](/solutions/007.md)|Solução 8|
 
 | #9 Tesseract | #10 Cloaked Spirits | #11 Eye of Sauron | #12 Wiggly Moustache |
 |:---:|:---:|:---:|:---:|
@@ -43,10 +43,10 @@ As soluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrados 
 
 ## Outros
 
-| #179 Tanzania |
-|:---:|
-|[![Exercício 179](https://cssbattle.dev/targets/179.png "Exercício 179")](/solutions/179.md)|
-|[Solução 179](/solutions/179.md)|
+| #179 Letter O | #179 Tanzania |
+|:---:|:---|
+|[![Exercício 130](https://cssbattle.dev/targets/130.png "Exercício 130")](/solutions/130.md)|[![Exercício 179](https://cssbattle.dev/targets/179.png "Exercício 179")](/solutions/179.md)|
+|[Solução 130](/solutions/130.md)|[Solução 179](/solutions/179.md)|
 
 # Links externos
 
@@ -60,4 +60,4 @@ As soluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrados 
 
 ## Outros desafios
 
-[179](https://cssbattle.dev/play/179)
+[130](https://cssbattle.dev/play/130) - [179](https://cssbattle.dev/play/179)
