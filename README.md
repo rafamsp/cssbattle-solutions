@@ -53,6 +53,10 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 |[![Exercício 2024-5-4](daily-solutions/media/2024-5-4.png "Exercício 2024-5-4")](/daily-solutions/2024-5-4.md)|[![Exercício 2024-5-6](daily-solutions/media/2024-5-6.png "Exercício 2024-5-6")](/daily-solutions/2024-5-6.md)|
 |[Solução 2024-5-4](/daily-solutions/2024-5-4.md)|[Solução 2024-5-6](/daily-solutions/2024-5-6.md)|
 
+| 2024-5-8 |
+|:---:|
+|[![Exercício 2024-5-8](daily-solutions/media/2024-5-8.png "Exercício 2024-5-8")](/daily-solutions/2024-5-8.md)|
+
 ## Links externos
 
 ### Desafios
@@ -61,4 +65,4 @@ As resoluções dos exercícios do [CSSBattle](https://cssbattle.dev) encontrado
 
 ### Desafios diários
 
-[2024-5-4](https://cssbattle.dev/play/ghUrkXXqFvlph4Xk4xc3) - [2024-5-6](https://cssbattle.dev/play/5tiRRNpBoJHnfJJ0N5Wy)
+[2024-5-4](https://cssbattle.dev/play/ghUrkXXqFvlph4Xk4xc3) - [2024-5-6](https://cssbattle.dev/play/5tiRRNpBoJHnfJJ0N5Wy) - [2024-5-8](https://cssbattle.dev/play/0gAh1NOCyXjYd1ICIiaB)
