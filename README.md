@@ -24,6 +24,10 @@ Os links para cada desafio estão em suas respectivas páginas.
 
 <a href="solutions/130.md"><img src="https://cssbattle.dev/targets/130.png" title="Target #130 (Letter O)" width="50px"></a>
 
+## Battle #26
+
+<a href="solutions/162.md"><img src="https://cssbattle.dev/targets/162.png" title="Target #162 (Upwards)" width="50px"></a>
+
 ## Battle #129
 
 <a href="solutions/179.md"><img src="https://cssbattle.dev/targets/179.png" title="Target #179 (Tanzania)" width="50px"></a>
