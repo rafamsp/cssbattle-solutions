@@ -8,7 +8,7 @@ Os links para cada desafio estão em suas respectivas páginas.
 
 # Soluções
 
-## Battle #1
+## Battle #1 - Pilot Battle
 
 <a href="solutions/001.md"><img src="https://cssbattle.dev/targets/1.png" title="Target #1 (Simply Square)" width="50px"></a>
 <a href="solutions/002.md"><img src="https://cssbattle.dev/targets/2.png" title="Target #2 (Carrom)" width="50px"></a>
@@ -20,15 +20,19 @@ Os links para cada desafio estão em suas respectivas páginas.
 <a href="solutions/009.md"><img src="https://cssbattle.dev/targets/9.png" title="Target #9 (Tesseract)" width="50px"></a>
 <a href="solutions/010.md"><img src="https://cssbattle.dev/targets/10.png" title="Target #10 (Cloaked Spirits)" width="50px"></a>
 
-## Battle #21
+## Battle #21 - Rotate
 
 <a href="solutions/130.md"><img src="https://cssbattle.dev/targets/130.png" title="Target #130 (Letter O)" width="50px"></a>
 
-## Battle #26
+## Battle #26 - Initial
 
 <a href="solutions/162.md"><img src="https://cssbattle.dev/targets/162.png" title="Target #162 (Upwards)" width="50px"></a>
 
-## Battle #129
+## Battle #27 - Relative
+
+<a href="solutions/170.md"><img src="https://cssbattle.dev/targets/170.png" title="Target #170 (Party Hat)" width="50px"></a>
+
+## Battle #29 - Font
 
 <a href="solutions/179.md"><img src="https://cssbattle.dev/targets/179.png" title="Target #179 (Tanzania)" width="50px"></a>
 
