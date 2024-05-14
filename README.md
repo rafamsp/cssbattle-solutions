@@ -26,6 +26,7 @@ Os links para cada desafio estão em suas respectivas páginas.
 
 ## Battle #26 - Initial
 
+<a href="solutions/161.md"><img src="https://cssbattle.dev/targets/161.png" title="Target #161 (Converge)" width="50px"></a>
 <a href="solutions/162.md"><img src="https://cssbattle.dev/targets/162.png" title="Target #162 (Upwards)" width="50px"></a>
 
 ## Battle #27 - Relative
@@ -42,3 +43,4 @@ Os links para cada desafio estão em suas respectivas páginas.
 <a href="daily-solutions/2024-5-4.md"><img src="daily-solutions/media/2024-5-4.png" title="Daily target #2024-5-4" width="50px"></a>
 <a href="daily-solutions/2024-5-6.md"><img src="daily-solutions/media/2024-5-6.png" title="Daily target #2024-5-6" width="50px"></a>
 <a href="daily-solutions/2024-5-8.md"><img src="daily-solutions/media/2024-5-8.png" title="Daily target #2024-5-8" width="50px"></a>
+<a href="daily-solutions/2024-5-13.md"><img src="daily-solutions/media/2024-5-13.png" title="Daily target #2024-5-13" width="50px"></a>
