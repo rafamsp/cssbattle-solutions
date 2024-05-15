@@ -24,6 +24,10 @@ Os links para cada desafio estão em suas respectivas páginas.
 
 <a href="solutions/024.md"><img src="https://cssbattle.dev/targets/24.png" title="Target #24 (Switches)" width="50px"></a>
 
+## Battle #5 - Inline
+
+<a href="solutions/030.md"><img src="https://cssbattle.dev/targets/30.png" title="Target #30 (Horizon)" width="50px"></a>
+
 ## Battle #7 - Backface
 
 <a href="solutions/034.md"><img src="https://cssbattle.dev/targets/34.png" title="Target #34 (Christmas Tree)" width="50px"></a>
