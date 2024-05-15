@@ -20,6 +20,11 @@ Os links para cada desafio estão em suas respectivas páginas.
 <a href="solutions/009.md"><img src="https://cssbattle.dev/targets/9.png" title="Target #9 (Tesseract)" width="50px"></a>
 <a href="solutions/010.md"><img src="https://cssbattle.dev/targets/10.png" title="Target #10 (Cloaked Spirits)" width="50px"></a>
 
+## Battle #7 - Backface
+
+<a href="solutions/034.md"><img src="https://cssbattle.dev/targets/34.png" title="Target #34 (Christmas Tree)" width="50px"></a>
+<a href="solutions/037.md"><img src="https://cssbattle.dev/targets/37.png" title="Target #37 (Tunnel)" width="50px"></a>
+
 ## Battle #21 - Rotate
 
 <a href="solutions/130.md"><img src="https://cssbattle.dev/targets/130.png" title="Target #130 (Letter O)" width="50px"></a>
