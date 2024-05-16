@@ -52,6 +52,7 @@ Os links para cada desafio estão em suas respectivas páginas.
 
 ## Daily targets
 
+<a href="daily-solutions/2024-4-24.md"><img src="daily-solutions/media/2024-4-24.png" title="Daily target #2024-4-24" width="50px"></a>
 <a href="daily-solutions/2024-4-29.md"><img src="daily-solutions/media/2024-4-29.png" title="Daily target #2024-4-29" width="50px"></a>
 <a href="daily-solutions/2024-5-4.md"><img src="daily-solutions/media/2024-5-4.png" title="Daily target #2024-5-4" width="50px"></a>
 <a href="daily-solutions/2024-5-6.md"><img src="daily-solutions/media/2024-5-6.png" title="Daily target #2024-5-6" width="50px"></a>
