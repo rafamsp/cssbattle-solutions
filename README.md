@@ -41,6 +41,10 @@ Os links para cada desafio estão em suas respectivas páginas.
 
 <a href="solutions/130.md"><img src="https://cssbattle.dev/targets/130.png" title="Target #130 (Letter O)" width="50px"></a>
 
+## Battle #22 - Grid
+
+<a href="solutions/138.md"><img src="https://cssbattle.dev/targets/138.png" title="Target #138 (Lotus)" width="50px"></a>
+
 ## Battle #23 - Contain
 
 <a href="solutions/142.md"><img src="https://cssbattle.dev/targets/142.png" title="Target #142 (Curtains)" width="50px"></a>
