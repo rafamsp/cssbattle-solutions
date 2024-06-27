@@ -51,6 +51,7 @@ Os links para cada desafio estão em suas respectivas páginas.
 
 ## Battle #26 - Initial
 
+<a href="solutions/159.md"><img src="https://cssbattle.dev/targets/159.png" title="Target #159 (Portal)" width="50px"></a>
 <a href="solutions/161.md"><img src="https://cssbattle.dev/targets/161.png" title="Target #161 (Converge)" width="50px"></a>
 <a href="solutions/162.md"><img src="https://cssbattle.dev/targets/162.png" title="Target #162 (Upwards)" width="50px"></a>
 
