@@ -22,6 +22,7 @@ Os links para cada desafio estão em suas respectivas páginas.
 
 ## Battle #4 - Display
 
+<a href="solutions/022.md"><img src="https://cssbattle.dev/targets/22.png" title="Target #22 (Cloud)" width="50px"></a>
 <a href="solutions/024.md"><img src="https://cssbattle.dev/targets/24.png" title="Target #24 (Switches)" width="50px"></a>
 <a href="solutions/028.md"><img src="https://cssbattle.dev/targets/28.png" title="Target #28 (Cups & Balls)" width="50px"></a>
 
