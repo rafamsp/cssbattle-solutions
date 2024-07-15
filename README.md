@@ -20,6 +20,10 @@ Os links para cada desafio estão em suas respectivas páginas.
 <a href="solutions/009.md"><img src="https://cssbattle.dev/targets/9.png" title="Target #9 (Tesseract)" width="50px"></a>
 <a href="solutions/010.md"><img src="https://cssbattle.dev/targets/10.png" title="Target #10 (Cloaked Spirits)" width="50px"></a>
 
+## Battle #2 - Visibility
+
+<a href="solutions/014.md"><img src="https://cssbattle.dev/targets/14.png" title="Target #14 (Web Maker Logo)" width="50px"></a>
+
 ## Battle #4 - Display
 
 <a href="solutions/022.md"><img src="https://cssbattle.dev/targets/22.png" title="Target #22 (Cloud)" width="50px"></a>
@@ -81,4 +85,4 @@ Os links para cada desafio estão em suas respectivas páginas.
 
 # Marcados para revisão (WIP)
 
-#009 | #010 | #2024-4-29 | 2024-6-1
+#009 | #010 | #014 | #2024-4-29 | 2024-6-1
