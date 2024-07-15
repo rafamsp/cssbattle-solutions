@@ -22,6 +22,7 @@ Os links para cada desafio estão em suas respectivas páginas.
 
 ## Battle #2 - Visibility
 
+<a href="solutions/013.md"><img src="https://cssbattle.dev/targets/13.png" title="Target #13 (Totally Triangle)" width="50px"></a>
 <a href="solutions/014.md"><img src="https://cssbattle.dev/targets/14.png" title="Target #14 (Web Maker Logo)" width="50px"></a>
 
 ## Battle #4 - Display
