@@ -35,6 +35,10 @@ Os links para cada desafio estão em suas respectivas páginas.
 
 <a href="solutions/030.md"><img src="https://cssbattle.dev/targets/30.png" title="Target #30 (Horizon)" width="50px"></a>
 
+## Battle #6 - Conic
+
+<a href="solutions/031.md"><img src="https://cssbattle.dev/targets/31.png" title="Target #31 (Equals)" width="50px"></a>
+
 ## Battle #7 - Backface
 
 <a href="solutions/034.md"><img src="https://cssbattle.dev/targets/34.png" title="Target #34 (Christmas Tree)" width="50px"></a>
