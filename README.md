@@ -89,6 +89,7 @@ Os links para cada desafio estão em suas respectivas páginas.
 <a href="daily-solutions/2024-7-13.md"><img src="daily-solutions/media/2024-7-13.png" title="Daily target #2024-7-13" width="50px"></a>
 <a href="daily-solutions/2024-7-16.md"><img src="daily-solutions/media/2024-7-16.png" title="Daily target #2024-7-16" width="50px"></a>
 <a href="daily-solutions/2024-8-24.md"><img src="daily-solutions/media/2024-8-24.png" title="Daily target #2024-8-24" width="50px"></a>
+<a href="daily-solutions/2024-9-30.md"><img src="daily-solutions/media/2024-9-30.png" title="Daily target #2024-9-30" width="50px"></a>
 
 # Marcados para revisão (WIP)
 
